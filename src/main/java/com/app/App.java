@@ -4,6 +4,7 @@ public class App
 {
     public static void main( String[] args )
     {
+        // variable decleration here
         char operator;
         Double number1, number2, result;
 
