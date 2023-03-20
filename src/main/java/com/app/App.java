@@ -4,7 +4,7 @@ public class App
 {
     public static void main( String[] args )
     {
-        // comment added
+        // comment updated
         char operator;
         Double number1, number2, result;
 
